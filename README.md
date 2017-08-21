@@ -2,11 +2,9 @@
 
 
 
-
-
 ## What are local storage and session storage and what is the difference between the two?
 	
-	Local Storage, Session Storage and Cookies both extend storage. and all are used to store data on the client side. Each one has its own storage and expiration limit.
+Local Storage, Session Storage and Cookies both extend storage. and all are used to store data on the client side. Each one has its own storage and expiration limit.
 
 #### local-Storage
 	
@@ -28,9 +26,6 @@ server-side or client-side (normally from server-side).
 
 Cookies are primarily for server-side reading (can also be read on client-side), 
 localStorage and sessionStorage can only be read on client-side.
-
-
-
 
 
 
