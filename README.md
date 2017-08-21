@@ -6,7 +6,7 @@
 	
 	Local Storage, Session Storage and Cookies both extend storage. and all are used to store data on the client side. Each one has its own storage and expiration limit.
 
-[x] local-Storage
+[x]local-Storage
 	
 	The data stored in local-storage persists until explicitly deleted. Changes made are saved and available for all current and future visits to the site.
 
