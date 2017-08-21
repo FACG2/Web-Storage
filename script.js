@@ -17,6 +17,7 @@
 })();
 
 function render() {
+  /*Render the Data*/
   document.querySelector('.sessionStorage').textContent = sessionStorage.test;
   document.querySelector('.localStorage').textContent = localStorage.test;
   document.querySelector('.cookie').textContent = (document.cookie);
